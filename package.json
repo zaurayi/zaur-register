@@ -1,0 +1,22 @@
+{
+  "name": "zaurc",
+  "version": "1.0.0",
+  "description": "Register Bot",
+  "main": "zaur.js",
+  "scripts": {
+    "start": "node zaur.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^7.1.2"
+  },
+  "engines": {
+    "node": "11.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "zaur"
+  ]
+}
